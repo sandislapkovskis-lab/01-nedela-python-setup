@@ -1,1 +1,3 @@
-print('Hello from VS Code')
+print('Sveika pasaule')
+
+print('debesis ir vaļā')
