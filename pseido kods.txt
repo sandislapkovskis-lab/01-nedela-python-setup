@@ -1,0 +1,21 @@
+Sviestmaizes Pagatavošana
+
+START
+ 
+Paņemt maizi
+
+IF maize ir jāgrauzdē THEN
+ Ielikt maizi grauzdētājā
+ Izņemt maizi
+
+Uzklāt sviestu
+
+Pievienot sieru
+
+IF maizīte ar sieru ir jāgrauzdē THEN
+ Ielikt maizīti grauzdētājā
+ Izņemt maizīti
+
+Maizīte gatava
+
+END

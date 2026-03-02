@@ -1,0 +1,28 @@
+Pieslēgšanās e‑pastam
+
+Ieslēdzu datoru, atveru interneta pārlūku, dodos uz e-pasta mājaslapu, ievadu savu lietotājvārdu un paroli, izlaboju ja esmu uzrakstījis kļūdaini, esmu pieslēdzies savam e-pastam.
+
+Numurēti soļi:
+
+1.Ieslēgt datoru.
+2.Atvērt interneta pārlūku.
+3.Atvērt e‑pasta mājaslapu.
+4.Ievadīt lietotājvārdu.
+5.Ievadīt paroli.
+6.Nospiest ielogošanās pogu.
+7.Izlabot lietotājvārdu vai paroli.
+8.Pieslēgšanās savam e-pastam.
+
+Kafijas iegāde
+
+Dodos uz kafejnīcu, izvēlos dzērienu, pasūti to, samaksāju un gaidu līdz kafijas pasniegšanai.
+
+Numurēti soļi:
+
+1.Iet uz kafejnīcu.
+2.Iepazīties ar dzērienu izvēlni.
+3.Pasūtīt izvēlēto kafiju.
+4.Izvēlēties izmēru.
+5.Samaksāt par dzērienu.
+6.Gaidīt pasūtījumu.
+7.Saņemt kafiju.
